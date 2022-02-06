@@ -1,0 +1,3 @@
+[submodule "3rdparty/libbinaryio"]
+	path = 3rdparty/libbinaryio
+	url = https://github.com/burninrubber0/libbinaryio
